@@ -1,0 +1,192 @@
+{
+  "data-all": [
+    {
+      "name": "Sale",
+      "link": "khuyen-mai-va-combo",
+      "list": [
+        {
+          "name": "Combo chăm sóc da",
+          "link": "combo-cham-soc-da"
+        },
+        {
+          "name": "Combo chăm sóc tóc",
+          "link": "combo-cham-soc-toc"
+        },
+        {
+          "name": "Combo chăm sóc môi",
+          "link": "combo-cham-soc-moi"
+        },
+        {
+          "name": "Combo khác",
+          "link": "combo-khac"
+        }
+      ]
+    },
+    {
+      "name": "Trang điểm",
+      "link": "trang-diem",
+      "list": [
+        {
+          "name": "Son dưỡng môi",
+          "link": "son-duong-moi"
+        },
+        {
+          "name": "Son màu không chì",
+          "link": "son-mau-khong-chi"
+        },
+        {
+          "name": "Tẩy da chết môi",
+          "link": "tay-da-chet-moi"
+        },
+        {
+          "name": "Kem nền",
+          "link": "kem-nen"
+        },
+        {
+          "name": "Kem má",
+          "link": "kem-ma"
+        }
+      ]
+    },
+    {
+      "name": "Da",
+      "link": "cham-soc-da",
+      "list": [
+        {
+          "name": "Tẩy trang - rửa mặt",
+          "link": "tay-trang-rua-mat"
+        },
+        {
+          "name": "Toner - xịt khoáng",
+          "link": "toner-xit-khoang"
+        },
+        {
+          "name": "Dưỡng da",
+          "link": "duong-da"
+        },
+        {
+          "name": "Kem chống nắng",
+          "link": "kem-chong-nang"
+        }
+      ]
+    },
+    {
+      "name": "Tóc",
+      "link": "cham-soc-toc",
+      "list": [
+        {
+          "name": "Sản phẩm gội đầu",
+          "link": "san-pham-goi-dau"
+        },
+        {
+          "name": "Sản phẩm dưỡng tóc",
+          "link": "san-pham-duong-toc"
+        }
+      ]
+    },
+    {
+      "name": "Cơ thể",
+      "link": "cham-soc-co-the",
+      "list": [
+        {
+          "name": "Xà bông thiên nhiên",
+          "link": "xa-bong-thien-nhien"
+        },
+        {
+          "name": "Sữa tắm thiên nhiên",
+          "link": "sua-tam-thien-nhien"
+        },
+        {
+          "name": "Sữa dưỡng thể",
+          "link": "sua-duong-the"
+        },
+        {
+          "name": "Tẩy da chết body",
+          "link": "tay-da-chet-body"
+        },
+        {
+          "name": "Vệ sinh vùng kín",
+          "link": "bot-ve-sinh-may-hong"
+        },
+        {
+          "name": "Chăm sóc răng miệng",
+          "link": "cham-soc-rang-mieng"
+        }
+      ]
+    },
+    {
+      "name": "Em bé",
+      "link": "san-pham-cho-be",
+      "list": [
+        {
+          "name": "Tắm bé",
+          "link": "san-pham-tam-be"
+        },
+        {
+          "name": "Chăm sóc bé",
+          "link": "san-pham-cham-soc-be"
+        }
+      ]
+    },
+    {
+      "name": "Hương thơm",
+      "link": "huong-thom",
+      "list": [
+        {
+          "name": "Tinh dầu nhỏ giọt nguyên chất",
+          "link": "tinh-dau-thien-nhien-20ml"
+        },
+        {
+          "name": "Tinh dầu trị liệu",
+          "link": "tinh-dau-tri-lieu"
+        },
+        {
+          "name": "Tinh dầu treo thông minh",
+          "link": "tinh-dau-treo-thong-minh"
+        },
+        {
+          "name": "Nước hoa khô",
+          "link": "nuoc-hoa-kho"
+        },
+        {
+          "name": "Nước hoa dạng xịt",
+          "link": "nuoc-hoa-dang-xit"
+        }
+      ]
+    },
+    {
+      "name": "Quà tặng",
+      "link": "qua-tang",
+      "list": [
+        {
+          "name": "Dưới 300k",
+          "link": "set-qua-duoi-300k"
+        },
+        {
+          "name": "Dưới 500k",
+          "link": "set-qua-duoi-500k"
+        },
+        {
+          "name": "Dưới 800k",
+          "link": "set-qua-duoi-800k"
+        }
+      ]
+    },
+    {
+      "name": "Chăm sóc nhà cửa",
+      "link": "cham-soc-nha-cua",
+      "list": []
+    },
+    {
+      "name": "Khác",
+      "link": "khac",
+      "list": [
+        {
+          "name": "Túi vải bảo vệ môi trường",
+          "link": "tui-vai"
+        }
+      ]
+    }
+  ]
+}
+

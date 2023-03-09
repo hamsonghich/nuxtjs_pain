@@ -1,0 +1,35 @@
+{
+  "ButtonWebComponent": {
+    "description": "Auto imported from components/ButtonWebComponent.vue"
+  },
+  "FooterCpn": {
+    "description": "Auto imported from components/FooterCpn.vue"
+  },
+  "FooterHomeCpn": {
+    "description": "Auto imported from components/FooterHomeCpn.vue"
+  },
+  "HeaderCpn": {
+    "description": "Auto imported from components/HeaderCpn.vue"
+  },
+  "InputPasswordWebComponent": {
+    "description": "Auto imported from components/InputPasswordWebComponent.vue"
+  },
+  "InputSearchWebcomponent": {
+    "description": "Auto imported from components/InputSearchWebcomponent.vue"
+  },
+  "InputWebComponent": {
+    "description": "Auto imported from components/InputWebComponent.vue"
+  },
+  "LoginCpn": {
+    "description": "Auto imported from components/LoginCpn.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "SidebarCpn": {
+    "description": "Auto imported from components/SidebarCpn.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  }
+}
